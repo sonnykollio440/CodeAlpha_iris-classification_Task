@@ -9,18 +9,14 @@
 - [Project Overview](#project-overview)
 - [Results](#results)
 - [Dataset Description](#dataset-description)
-- [Features](#features)
-- [Technical Implementation](#technical-implementation)
 - [Project Structure](#project-structure)
 - [Visualizations](#visualizations)
 - [Acknowledgments](#acknowledgments)
 
 ## 🎯 Project Overview
-
 This project implements a machine learning solution for classifying Iris flowers into three species (Setosa, Versicolor, and Virginica) based on their sepal and petal measurements. The model achieves **perfect 100% accuracy** on the test set using the K-Nearest Neighbors (KNN) algorithm.
 
 **Key Achievement:** ✅ **100% Accuracy** - All test samples correctly classified
-
 **Author**: Sonny B. Kollio  
 **Internship**: CodeAlpha Data Science Intern  
 **Project Type**: Supervised Machine Learning - Classification
@@ -60,7 +56,6 @@ text
 *All predictions are correct - perfect diagonal matrix*
 
 ## 📁 Dataset Description
-
 The Iris dataset is one of the most famous datasets in pattern recognition literature. It contains 150 samples with 4 features each:
 
 ### 🌿 Features:
@@ -79,8 +74,6 @@ The Iris dataset is one of the most famous datasets in pattern recognition liter
 - Features per sample: 4
 - Classes: 3 (50 samples each)
 - No missing values
-
-## ✨ Features
 
 ### ✅ Core Features
 - **100% Accuracy Model**: Perfect classification on test data
@@ -101,8 +94,6 @@ The Iris dataset is one of the most famous datasets in pattern recognition liter
 - Reproducible results
 - Well-documented functions
 - Model serialization for deployment
-
-## 🛠️ Technical Implementation
 
 ### Algorithms Used
 - **Primary Algorithm**: K-Nearest Neighbors (KNN)
