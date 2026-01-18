@@ -1,4 +1,3 @@
-# iris_classification.py - FINAL VERSION WITH GUARANTEED 100% ACCURACY
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
